@@ -48,6 +48,14 @@ Tenho experiência prática em projetos reais, trabalhando com tecnologias atuai
 />
 <img 
   align="left" 
+  alt="Nuxt.js" 
+  title="Nuxt.js"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg"
+/>
+<img 
+  align="left" 
   alt="Git" 
   title="Git"
   width="30px" 
@@ -72,11 +80,27 @@ Tenho experiência prática em projetos reais, trabalhando com tecnologias atuai
 />
 <img 
   align="left" 
+  alt="Redux" 
+  title="Redux"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" 
+/>
+<img 
+  align="left" 
   alt="Node.js" 
   title="Node.js"
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Styled Components" 
+  title="Styled Components"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original.svg" 
 />
 <img 
   align="left" 
@@ -93,6 +117,30 @@ Tenho experiência prática em projetos reais, trabalhando com tecnologias atuai
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Bootstrap" 
+  title="Bootstrap"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Tailwind CSS" 
+  title="Tailwind CSS"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Python" 
+  title="Python"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 <br/>
