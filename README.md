@@ -143,7 +143,7 @@ Tenho experiência prática em projetos reais, trabalhando com tecnologias atuai
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
-<br/>
+<!--<br/>
 <br />
 
 ---
@@ -154,5 +154,5 @@ Tenho experiência prática em projetos reais, trabalhando com tecnologias atuai
   align="left" 
   alt="GitHub Stats" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvPedrosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JvPedrosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>-->
